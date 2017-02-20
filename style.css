@@ -1,0 +1,107 @@
+body {background-color: gray;}
+p {
+	color: gray;
+	text-align: center;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 18px;
+	}
+#HeaderBox {
+	background-color: white;
+	width: 1000px;
+	border: 25px white;
+	padding: 25px;
+	margin: auto;
+	align-content: center;
+}
+#NavBox {
+	background-color: white;
+	width: 1000px;
+	border: 25px white;
+	padding: 25px;
+	margin: auto;
+	align-content: center;
+}
+#SectionBox {
+	position: relative;
+	left: 235px;
+	background-color: white;
+	height: 275px;
+	width: 450px;
+	border: 25px;
+	padding: 25px;
+	margin: 0px;
+	align-content: center;
+}
+
+#AsideBox {
+	position: relative;
+	bottom: 76px;
+	left: 525px;
+	background-color: white;
+	height: 275px;
+	width: 450px;
+	border: 25px;
+	padding: 25px;
+	margin: 0px;
+	align-content: center;
+}
+
+#ArticleBox {
+	position: relative;
+	left: 30px;
+	bottom: 325px;
+	background-color: gray;
+	height: 200px;
+	width: 400px;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	align-content: center;
+}
+#ArticleP {
+	color: white;
+}
+
+#h1h2h3Box {
+	position: relative;
+	left: 50px;
+	bottom: 500px;
+	background-color: white;
+	height: 45px;
+	width: 350px;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	align-content: center;
+}
+#BoldenH1H2H3 {
+	font-weight: bold;
+	position: relative;
+	top: 15px;
+}
+#pBox {
+	position: relative;
+	left: 50px;
+	bottom: 490px;
+	background-color: white;
+	height: 45px;
+	width: 350px;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	align-content: center;
+}
+#ptextcenter {
+	position: relative;
+	top: 12.5px;
+}
+#footerBox {
+	position: relative;
+	top: 20px;
+	background-color: white;
+	width: 1000px;
+	border: 25px white;
+	padding: 25px;
+	margin: auto;
+	align-content: center;
+}
